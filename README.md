@@ -2,6 +2,8 @@
 
 Just a full-stack demo dashboard for managing patients per clinic
 
+![pika-1669718908041-1x](https://user-images.githubusercontent.com/701815/204509689-2db671e1-d359-44ea-a560-7eb4731f7f84.png)
+
 ## Run Instructions
 
 0. Prerequisites
